@@ -1,0 +1,23 @@
+title: "SEO and Webmarketing all the way"
+style: "style1 medium lightbox onload-fade-in"
+content: |
+  <h3>SEO World is changing</h3>
+  <p>Nobody can deny it: the world is changing and SEO world is also changing! Taking Google for example, from 1998, it change from a Search Engine to a Response Engine ; focus more on more on giving the "right" answer to the "right" person.</p>
+pictures:
+  - title: "SEO Certified"
+    content: "I am certified from several known institutions such as Moz, SEM Rush, Hubspot, Data SEO Labs or the SEO Camp.Plus, as a <em>webmarketing swiss-army kniff</em> I am Google Certified for Google Analytics, Google Adwords (Search & Display) & Google Shopping."
+    image: "images/fulls/me-on-the-road.jpg"
+    thumb: "images/thumbs/me-on-the-road.jpg"
+    button: "Details"
+
+  - title: "SEO Consultant"
+    content: "What does e-marketing consultant means? It means that with my clients (and my websites) I follow some KPI to get the best traffic regarding goals that were set. The best traffic for a website signify that visitors will fulfill your goals (micro goals and main goals). I aim to do that with SEO and with integrating SEO in the global conversion funnel."
+    image: "images/fulls/mountains-sun.jpg"
+    thumb: "images/thumbs/mountains-sun.jpg"
+    button: "Details"
+
+  - title: "Webmarketing lover"
+    content: "Many years ago, I fell in love with marketing and especially SEO and Data. That's why i'm currently working as a SEO Specialist and used to work as several level of marketing and digital marketing. From a web-marketing agency to well known data company. I also graduated from a e-commerce and marketing MBA."
+    image: "images/fulls/beyong-road.jpg"
+    thumb: "images/thumbs/beyong-road.jpg"
+    button: "Details"

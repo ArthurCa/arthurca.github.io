@@ -1,0 +1,31 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Expert SEO in Canada"
+content: |
+  <p>
+     There is so much information already available online to become an SEO Expert: fast courses, webinars, articles, etc. But what exactly an SEO expert?
+  </p>
+  <p>
+  For me an SEO expert consist in understanding SEO in every part of it ... meaning understanding how to optimize content, how to optimize technically a website and how you must work on acquiring backlinks also. 3 big part that you should now - at least - and also, you can add the data part (data analysis) since a few years you cannot be a SEO expert, if you do not have an expertise in data: understanding it, knowing from where you can gather it, which data you can trust ... and mostly what decision you will take to go further in your SEO strategy thanks to data.
+  </p>
+  <p>If you want to summarize it, there is 3 points:</p>
+  <ul>
+    <li>Tech SEO: indexation, site structure, interlinking ; how to have a better crawl from Search Engine Bots</li>
+    <li>Content SEO: keyword research and how to write good content (content that drive traffic which will convert)</li>
+    <li>Backlinks distribution: could be related to PR and also how to gain notoriety.</li>
+  </ul>
+  <p>Moz.com on its part will summarize it in 7 points:</p>
+  <ol>
+    <li>Crawl accessibility so engines can read your website</li>
+    <li>Compelling content that answers the searcher’s query</li>
+    <li>Keyword optimized to attract searchers & engines</li>
+    <li>Great user experience including a fast load speed and compelling UX</li>
+    <li>Share-worthy content that earns links, citations, and amplification</li>
+    <li>Title, URL, & description to draw high CTR in the rankings</li>
+    <li>Snippet/schema markup to stand out in SERPs</li>
+  </ol>
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/fulls/look-right.jpg"

@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "A little bit about my work as an SEO"
+content: |
+    <p>We will go below as a resume of several of my work an SEO Specialist/SEO expert using data to get the best of optimization.</p>
+    <h3>SEO Manager @ Shopify | Canada</h3>
+    <p>Participating in getting the best organic trafic for Shopify products with test and studies.</p>
+    <h3>SEO Specialist @ Adviso | Canada</h3>
+    <p>Getting the best SEO for my client thanks to exchange, automation and team spirit: content creation, bot optimization, etc.</p>
+    <h3>Data Analyst @ Editus | Luxembourg</h3>
+    <p>Analyzing data and creating data viz for internal purposes. Gathering information mostly thanks to SQL and Power BI.</p>
+    <h3>SEO & web-analytics Consultant @ Open Linking | France</h3>
+    <p>Mostly SEO for e-commerce brands in diverse sectors such as tourism, clothes, video games or finance. And also some consulting and courses about how to understand its data.</p>
+image: "images/fulls/me-on-the-road.jpg"

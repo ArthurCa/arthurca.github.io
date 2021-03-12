@@ -1,0 +1,35 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+baseurl = "https://arthurca.github.io/"
+languageCode = "en-ca"
+title = "SEO Specialist Canada 🚀 | SEO Expert | Arthur CAMBERLEIN"
+theme = "hugo"
+Copyright = "© Arthur CAMBERLEIN - 2010 - 2020"
+canonifyurls = true
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "UA-47705987-3"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "SEO Manager and Data Specialist in Canada (Montreal, QC). An SEO expert from France now in North America ;-) "
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+  github = "https://github.com/arthurca/"
+  twitter = "https://twitter.com/arthurca"
+  instagram = "https://instagram.com/arthurca"
+  linkedin = "https://linkedin.com/arthurcamberlein"
+  telegram = "https://telegram.org"
