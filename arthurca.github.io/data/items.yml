@@ -1,0 +1,34 @@
+title : "SEO & Data swiss-army knife"
+content: |
+  As a webmarketing swiss-army knife I know how to do SEO, analyse data ... but also how to understand how SEA works, launch a SMO campaign and analyse it all thanks to webanalyses tools.
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "SEO"
+    content : "Search Engine Optimisation is one of the many ways to get trafic on your website. SEO integrates onsite optimisation (technical optimisation and content optimization), but also offsite optimisation with linkbuilding (link baithing & link ninja)."
+    style : "style2 major fa-gem"
+
+  # feature item loop
+  - name : "Data"
+    content : "In a world of <strong>Big Data</strong> there is data everywhere! My goal as a Data Specialist is to gather all needed data - preferably thanks to automation with API for example - and be able to analyse it to extract optimizations. In SEO it could came from Google Search Console, Google Analytics and log analysis for example ; that could also could be consolidated by backlink analysis."
+    style : "solid style2 major fa-save"
+    
+  # feature item loop
+  - name : "Ecommerce"
+    content : "What is ecommerce (also electronic commerce), is the action to buy and sell goods and/or services thanks to the Internet. I am specialized in SEO and data for ecommerce website, meaning I know how to best optimized your website to get sales!"
+    style : "solid style2 major fa-chart-bar"
+    
+  # feature item loop
+  - name : "SEA"
+    content : "Search Engine Advertising is associated with paid search. It means you will pay to get some traffic from search engines (from search ads and also PLA)...but also from website with display banners. The main product used to do SEA is Adwords, but you can also find that in some market Bing Ads will have larger and larger market parts."
+    style : "solid style2 major fa-sync-alt"
+    
+  # feature item loop
+  - name : "SMO"
+    content : "Social Media Optimisation will help you develop your online strategy on social media like Facebook, Twitter, LinkedIn, etc. On social media you could have organic post but also paid post ; depending on your goal(s) you could use both or either one of them"
+    style : "solid style2 major fa-wifi"
+    
+  # feature item loop
+  - name : "Webanalyses"
+    content : "How to anaylse your traffic? How to get some statistics about your visitors? If you wuld like to know you will have to insert a script from a webanalyses tool like Goole Analytics, AT Internet or Omniture. the next will be follow event linked to your goal"
+    style : "solid style2 major fa-chart-bar"

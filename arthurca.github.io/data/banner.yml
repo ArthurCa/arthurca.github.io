@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "SEO MANAGER & DATA SPECIALIST IN CANADA"
+subtitle: |
+  Hello, my name is Arthur Camberlein, I am a SEO Manager & Data Specialist! I was a SEO Specialist in Montreal (Canada), a Data Analyst in Luxembourg & an E-marketing consultant specialized in SEO in Lille (France)
+content : |
+  Nowadays, my job title is SEO Manager @ Shopify. During my free time I like to play with SEO, Data, CMS and a lot of web stuff ... but also I am a big cycling afficionados & a tea lover!
+button:
+  label : "Let's go"
+  link : "#first"
+image : "images/fulls/beyong-road.jpg"
+

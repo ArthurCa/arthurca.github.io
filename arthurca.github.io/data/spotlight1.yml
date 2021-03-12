@@ -1,0 +1,18 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Who am I?"
+content: |
+  <p>Curious french guy living in Montreal (Canada) who really enjoys technology and the Internet. Especially understanding how things work.</p>
+                <h3>Where does I currently working?</h3>
+                <p>Currently working as an SEO Specialist @ Shopify in Canada and really enjoy it!</p>
+                <h3>My previous work place: SEO & Data in Canada, Luxembourg and France</h3>
+                <p>Before Shopify I was a SEO Specialist in a web agency in Montreal, QC, Canada. Former to that I worked as a Data Analyst in Luxembourg and as an SEO and Web analyst consultant in France (Lille) where I was specialized in SEO, e-commerce and online strategies.</p>
+                <h3>Constant learner + giving/sharing person</h3>
+                <p>I really enjoy spending time learning "stuff" but also sharing my knowledge, that's why I wrote on several websites and go into forums. But that's not all, I gave several conferences (& webinars), some courses and company training courses. Subject where about SEO 101, netlinking, e-commerce analysis, web-analysis basics, tech SEO, ...</p>
+                <h3>Webmarketing swiss-army kniff</h3>
+                <p>My coworker used to say about me that <strong>I'm a web-marketing swiss-army kniff</strong>. I'm familiar with SEO, Data, SEA, SMO and Webanalyses ; and also some tech & stats languages such as R (stat) and Python.</p>
+                <h3>SEO as a passion: also webmastering</h3>
+                <p>Without forgetting that I'm also a webmaster for several website. I live for test and SEO, so I have several website where i try to better understand Google Algorithm. Plu I also help several people to build there e-commerce website thanks to Wordpress (and Woo commerce) and Shopify.</p>
+          <div class="clear"></div>         
+image: "images/fulls/from-my-back.jpg"
